@@ -16,8 +16,6 @@ This tool allows you to obfuscate a Python script, embed its hash for integrity 
 
 ---
 
-## 3. How It Works
-
 
 </div>
 
